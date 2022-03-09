@@ -1,8 +1,12 @@
-## Olá, me chamo Nicolas 
-### Bem vindo ao meu perfil GitHub ✌️
+## Olá, bem vindo ao meu perfil GitHub ✌️
+### Me chamo Nicolas
 
 > 👨🏻‍💻 Desenvolvedor Front-end Jr.
 
+> ⚙️ Engenheiro de Produção - Universo - 2021
+
 > 💼 Desenvolvedor na Accenture
 
-> ⚙️ Engenheiro de Produção - Universo - 2021
+### teste 3
+#### teste 4
+##### teste 5
