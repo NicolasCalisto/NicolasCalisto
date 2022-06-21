@@ -1,4 +1,4 @@
-<h2 align="center"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> me chamo Nicolas </h2>
+<h2 align="center"> Olá 👋, me chamo Nicolas </h2>
 <h4 align="center">
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
